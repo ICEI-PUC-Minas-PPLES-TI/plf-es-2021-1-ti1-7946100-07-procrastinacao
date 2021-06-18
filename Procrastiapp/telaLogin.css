@@ -1,0 +1,89 @@
+.logo{
+    height: 30px;
+    width: 30px;
+}
+
+.loginBox{
+    display: flex;
+    align-items: center;
+}
+
+.txtLogin{
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    height: 35px;
+    width: 120px;
+}
+
+.txtSenha{
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    height: 35px;
+    width: 120px;
+}
+
+.campo-cadastro{
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    height: 35px;
+    width: 120px;
+}
+
+.btnLogin{
+    color: green;
+    border-radius: 8px;
+    height: 40px;
+    width: 100px;
+}
+
+.btnCadastro{
+    color: orange;
+    border-radius: 8px;
+    height: 40px;
+    width: 100px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    border: black;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+
+.input-linha {
+    display: inline;
+}
+
+.a{
+    color: blue;
+}
+
+.btn {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  .success {background-color: #04AA6D;} /* Green */
+  .success:hover {background-color: #46a049;}
+  
+  .info {background-color: #2196F3;} /* Blue */
+  .info:hover {background: #0b7dda;}
+  
+  .warning {background-color: #ff9800;} /* Orange */
+  .warning:hover {background: #e68a00;}
+  
+  .danger {background-color: #f44336;} /* Red */
+  .danger:hover {background: #da190b;}
+  
+  .default {background-color: #e7e7e7; color: black;} /* Gray */
+  .default:hover {background: #ddd;}
+  

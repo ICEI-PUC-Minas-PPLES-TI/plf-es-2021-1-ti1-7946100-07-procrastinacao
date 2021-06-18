@@ -1,0 +1,6 @@
+{
+    "login": ["Peter", "a"], 
+    "email": ["a@a.com", "b@b.com"], 
+    "senha": ["teste123", "teste123456"],
+    "telefone": [31988884545, 31988885454]
+}
